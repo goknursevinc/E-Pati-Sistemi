@@ -1,0 +1,55 @@
+C:\Users\Sevval Kolaca\source\repos\E-Pati\E-Pati\bin\Debug\net5.0-windows\E-Pati.exe
+C:\Users\Sevval Kolaca\source\repos\E-Pati\E-Pati\bin\Debug\net5.0-windows\E-Pati.deps.json
+C:\Users\Sevval Kolaca\source\repos\E-Pati\E-Pati\bin\Debug\net5.0-windows\E-Pati.runtimeconfig.json
+C:\Users\Sevval Kolaca\source\repos\E-Pati\E-Pati\bin\Debug\net5.0-windows\E-Pati.runtimeconfig.dev.json
+C:\Users\Sevval Kolaca\source\repos\E-Pati\E-Pati\bin\Debug\net5.0-windows\E-Pati.dll
+C:\Users\Sevval Kolaca\source\repos\E-Pati\E-Pati\bin\Debug\net5.0-windows\ref\E-Pati.dll
+C:\Users\Sevval Kolaca\source\repos\E-Pati\E-Pati\bin\Debug\net5.0-windows\E-Pati.pdb
+C:\Users\Sevval Kolaca\source\repos\E-Pati\E-Pati\obj\Debug\net5.0-windows\E-Pati.csproj.AssemblyReference.cache
+C:\Users\Sevval Kolaca\source\repos\E-Pati\E-Pati\obj\Debug\net5.0-windows\E_Pati.giris_ekrani.resources
+C:\Users\Sevval Kolaca\source\repos\E-Pati\E-Pati\obj\Debug\net5.0-windows\E_Pati.InfoScreenOwner.resources
+C:\Users\Sevval Kolaca\source\repos\E-Pati\E-Pati\obj\Debug\net5.0-windows\E_Pati.screenSorgula.resources
+C:\Users\Sevval Kolaca\source\repos\E-Pati\E-Pati\obj\Debug\net5.0-windows\E_Pati.Vet.resources
+C:\Users\Sevval Kolaca\source\repos\E-Pati\E-Pati\obj\Debug\net5.0-windows\E_Pati.vetGuncel.resources
+C:\Users\Sevval Kolaca\source\repos\E-Pati\E-Pati\obj\Debug\net5.0-windows\E_Pati.screenYeniEkle.resources
+C:\Users\Sevval Kolaca\source\repos\E-Pati\E-Pati\obj\Debug\net5.0-windows\E-Pati.csproj.GenerateResource.cache
+C:\Users\Sevval Kolaca\source\repos\E-Pati\E-Pati\obj\Debug\net5.0-windows\E-Pati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sevval Kolaca\source\repos\E-Pati\E-Pati\obj\Debug\net5.0-windows\E-Pati.AssemblyInfoInputs.cache
+C:\Users\Sevval Kolaca\source\repos\E-Pati\E-Pati\obj\Debug\net5.0-windows\E-Pati.AssemblyInfo.cs
+C:\Users\Sevval Kolaca\source\repos\E-Pati\E-Pati\obj\Debug\net5.0-windows\E-Pati.csproj.CoreCompileInputs.cache
+C:\Users\Sevval Kolaca\source\repos\E-Pati\E-Pati\obj\Debug\net5.0-windows\E-Pati.dll
+C:\Users\Sevval Kolaca\source\repos\E-Pati\E-Pati\obj\Debug\net5.0-windows\ref\E-Pati.dll
+C:\Users\Sevval Kolaca\source\repos\E-Pati\E-Pati\obj\Debug\net5.0-windows\E-Pati.pdb
+C:\Users\Sevval Kolaca\source\repos\E-Pati\E-Pati\obj\Debug\net5.0-windows\E-Pati.genruntimeconfig.cache
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\bin\Debug\net5.0-windows\E-Pati.exe
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\bin\Debug\net5.0-windows\E-Pati.deps.json
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\bin\Debug\net5.0-windows\E-Pati.runtimeconfig.json
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\bin\Debug\net5.0-windows\E-Pati.runtimeconfig.dev.json
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\bin\Debug\net5.0-windows\E-Pati.dll
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\bin\Debug\net5.0-windows\ref\E-Pati.dll
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\bin\Debug\net5.0-windows\E-Pati.pdb
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\obj\Debug\net5.0-windows\E-Pati.csproj.AssemblyReference.cache
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\obj\Debug\net5.0-windows\E_Pati.giris_ekrani.resources
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\obj\Debug\net5.0-windows\E_Pati.InfoScreenOwner.resources
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\obj\Debug\net5.0-windows\E_Pati.screenSorgula.resources
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\obj\Debug\net5.0-windows\E_Pati.Vet.resources
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\obj\Debug\net5.0-windows\E_Pati.vetGuncel.resources
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\obj\Debug\net5.0-windows\E_Pati.screenYeniEkle.resources
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\obj\Debug\net5.0-windows\E-Pati.csproj.GenerateResource.cache
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\obj\Debug\net5.0-windows\E-Pati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\obj\Debug\net5.0-windows\E-Pati.AssemblyInfoInputs.cache
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\obj\Debug\net5.0-windows\E-Pati.AssemblyInfo.cs
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\obj\Debug\net5.0-windows\E-Pati.csproj.CoreCompileInputs.cache
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\obj\Debug\net5.0-windows\E-Pati.dll
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\obj\Debug\net5.0-windows\ref\E-Pati.dll
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\obj\Debug\net5.0-windows\E-Pati.pdb
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\obj\Debug\net5.0-windows\E-Pati.genruntimeconfig.cache
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\obj\Debug\net5.0-windows\E-Pati.csproj.CopyComplete
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\obj\Debug\net5.0-windows\E_Pati.Properties.Resources.resources
+C:\Users\Sevval Kolaca\Desktop\TS\TS Proje\E-Pati\E-Pati\obj\Debug\net5.0-windows\E_Pati.messageBox.resources

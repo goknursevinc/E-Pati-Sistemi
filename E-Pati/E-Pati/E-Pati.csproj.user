@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="messageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sorgula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vetGuncel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="veteriner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="infoOwner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="yeniEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
